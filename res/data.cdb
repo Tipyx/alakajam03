@@ -1,0 +1,39 @@
+{
+	"sheets": [
+		{
+			"name": "data",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "1",
+					"name": "desc",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "v0",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "v1",
+					"opt": true
+				}
+			],
+			"lines": [
+				{
+					"id": "FPS",
+					"v0": 60
+				}
+			],
+			"separators": [],
+			"props": {}
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}
